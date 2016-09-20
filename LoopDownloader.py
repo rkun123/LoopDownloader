@@ -1,3 +1,4 @@
+#LoopDownloader v0.1
 import requests
 import os
 import re
